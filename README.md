@@ -1,3 +1,6 @@
+Video Walkthrough of the Website: https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fcc3b0c3-fb54-4c2c-9bbf-b0d7013510c2
+URL for the Website: https://lovejoysantique249763.000webhostapp.com/
+
 Tasks for this project:
 
 Lovejoy’s Antique Evaluation Web Application
